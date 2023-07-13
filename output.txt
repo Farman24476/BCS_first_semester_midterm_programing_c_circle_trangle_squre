@@ -1,5 +1,3 @@
-Choose one option:
-1= Square
-2= Triangle
-3= Circle
-Enter your select (1 to 3): Enter the square's width: Square's size: 144.00
+The distance you travelled (km): Enter the number of hours spent.: Speed: 0.08 km/h
+Time taken: 12.00 hours
+Distance traveled: 1.00 km
